@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "electron-prebuilt": "^0.36.2",
+    "electron-packager": "^9.1.0",
     "request-promise": "^1.0.2"
   },
   "scripts": {
